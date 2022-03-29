@@ -1,11 +1,11 @@
-# Super Trunfo - Família Madrigal
+# Super Trunfo - FamÃ­lia Madrigal
 
 
 
-Classes nº 6 & 7 of the imersão Dev by Alura.<br/>
+Classes nÂº 6 & 7 of the imersÃ£o Dev by Alura.<br/>
 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/batuira/pen/yLPmpPM?editors=0010](CodePen).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/batuira/pen/yLpYXpP?editors=0010](CodePen).
 
 
 
